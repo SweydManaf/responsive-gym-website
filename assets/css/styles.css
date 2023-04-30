@@ -242,7 +242,7 @@ img {
 .nav .nav__button{
   background-color: var(--title-color);
   border: none;
-  
+
 }
 /* Show menu */
 .show-menu{
@@ -355,8 +355,15 @@ letter-spacing: 1.5px;
 }
 
 /*=============== LOGOS ===============*/
+.logos__container{
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  justify-items: center;
+}
 
-
+.logos__img{
+  width: 120px;
+}
 /*=============== PROGRAM ===============*/
 
 
