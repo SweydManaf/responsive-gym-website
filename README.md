@@ -47,8 +47,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Inclui um formulário para calcular o índice de massa corporal.
 - Inclui um formulário para enviar e-mails.
 - Desenvolvido primeiro com a metodologia Mobile First, depois para desktop.
-- Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
-[Acesse o projeto finalizado, online](https://sweydmanaf.github.io/responsive-gym-website)
+- Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.<br><br>
+[🌐 Acesse o projeto finalizado, online](https://sweydmanaf.github.io/responsive-gym-website)
 
 ## 🔖 Layout
 
