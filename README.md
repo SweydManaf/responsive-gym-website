@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Inclui um formulário para enviar e-mails.
 - Desenvolvido primeiro com a metodologia Mobile First, depois para desktop.
 - Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.<br><br>
-[🌐 Acesse o projeto finalizado, online](https://sweydmanaf.github.io/responsive-gym-website)
+<p align="center"><a href="https://sweydmanaf.github.io/responsive-gym-website">🌐 Acesse o projeto finalizado, online</a></p>
 
 ## 🔖 Layout
 
